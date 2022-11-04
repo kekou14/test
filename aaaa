@@ -1,1 +1,9 @@
-[{"identifiant":"qq","descriptionCourte":"2qq","descriptionComplete":"qa","exigenceAmont":"za","typeDeTest":"za"}]
+[
+	{
+		"identifiant": "qqa",
+		"descriptionCourte": "2qq",
+		"descriptionComplete": "qa",
+		"exigenceAmont": "za",
+		"typeDeTest": "za"
+	}
+]
