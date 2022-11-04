@@ -1,12 +1,7 @@
 [
 	{
-<<<<<<< HEAD
 		"identifiant": "pa2",
-		"descriptionCourte": "p23",
-=======
-		"identifiant": "_pa2",
 		"descriptionCourte": "p2",
->>>>>>> a1357bc710da844e1881721a51ac574bc68d5e0d
 		"descriptionComplete": "p2",
 		"exigenceAmont": "p2",
 		"typeDeTest": "p2"
