@@ -1,8 +1,8 @@
 [
 	{
 		"identifiant": "3_pa2",
-		"descriptionCourte": "p2",
-		"descriptionComplete": "3p2",
+		"descriptionCourte": "3p2",
+		"descriptionComplete": "p2",
 		"exigenceAmont": "p2",
 		"typeDeTest": "3p2"
 	}
